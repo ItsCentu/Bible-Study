@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Bible Study/Test.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Bible Study/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Bible Study/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md",
+                "file": "Bible Study/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,8 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f310f45661a37e2",
+  "active": "36a55a3c438c032b",
   "lastOpenFiles": [
-    "Test.md"
+    "Bible Study/Test.md"
   ]
 }
