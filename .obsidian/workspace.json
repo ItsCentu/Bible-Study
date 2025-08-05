@@ -11,10 +11,14 @@
             "id": "3f310f45661a37e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/Asked Questions/If God is so godly and perfect, why is He jealous Isn’t jealousy a sin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "If God is so godly and perfect, why is He jealous Isn’t jealousy a sin"
             }
           }
         ]
@@ -162,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36a55a3c438c032b",
+  "active": "3f310f45661a37e2",
   "lastOpenFiles": [
+    "Bible Study/Asked Questions/How can the Bible claim the earth is around 6,000 years old when trees, rocks, and fossils are measured to be millions of years old.md",
+    "Bible Study/Asked Questions/If God is so godly and perfect, why is He jealous Isn’t jealousy a sin.md",
     "Bible Study/Test.md"
   ]
 }
