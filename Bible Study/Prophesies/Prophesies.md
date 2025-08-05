@@ -1,0 +1,94 @@
+# Modern-Day or Recent Fulfillments
+- **Rebirth of Israel**
+	- **Prophecy:** Israel would be regathered from all nations and become a nation again.
+	- **Fulfilled:** In 1948, Israel became a nation after 1,900 years in exile.
+	- Ezekiel 37:21–22: _“I will take the Israelites out of the nations... and bring them back into their own land.”_
+- **Global Communication**
+	- **Prophecy:** People around the world will see the death of two witnesses _at the same time._
+	- **Now possible through global live news and internet streaming.** This was **impossible until recent decades**.
+	- Revelation 11:9–10:  "For three and a half days some from every people, tribe, language and nation will gaze on their bodies and refuse them burial. The inhabitants of the earth will gloat over them and will celebrate by sending each other gifts, because these two prophets had tormented those who live on the earth."
+- **Falling Away from Faith**
+	- **Prophecy:** Before the end, there will be a massive rebellion or falling away from the faith.
+    - **Fulfilled/Ongoing:** Christianity is declining sharply in Europe and the West. Many churches are embracing sin or shutting down.
+    - _2 Thessalonians 2:3_: “That day will not come unless the rebellion comes first.”
+-  **Moral Decline in Society**
+	- **Prophecy:** In the last days, people will be selfish, proud, disobedient, unholy, and lovers of pleasure.
+    - **Fulfilled/Ongoing:** Our culture is defined by self-obsession, rebellion, and hostility to truth.
+    - _2 Timothy 3:2–4_: “Lovers of self... lovers of pleasure rather than lovers of God.”
+- **Peace Talks & Sudden Destruction**
+	 - **Prophecy:** People will talk about peace and safety, but destruction will come unexpectedly.
+    - **Fulfilled/Ongoing:** Constant calls for peace in the Middle East. Sudden wars (Ukraine, Israel-Hamas) keep breaking out.
+    - _1 Thessalonians 5:3_: “While people are saying, ‘Peace and safety,’ destruction will come on them suddenly.”
+- **Rise of Global Control**
+	- **Prophecy:** No one will be able to buy or sell unless they have the mark of the beast.
+    - **Fulfilled/Ongoing:** Digital currencies, social credit, biometric tracking — the tools now exist for total economic control.
+    - _Revelation 13:17_: “No one could buy or sell unless he had the mark…”
+- **Increase in Natural Disasters**
+	- **Prophecy:** There will be great earthquakes, famines, pestilences, and fearful events.
+	- **Fulfilled/Ongoing:** Earthquakes, tsunamis, famines, COVID-19, wildfires, and extreme climate events are rising globally.
+	- _Luke 21:11_: “There will be great earthquakes, famines and pestilences... and fearful events.”
+- **Explosion of Knowledge & Travel**
+	-  **Prophecy:** In the time of the end, knowledge will increase and many will go to and fro.
+	- **Fulfilled/Ongoing:** Air travel, internet, AI, and instant information — all within the last 100 years.
+	- _Daniel 12:4_: “Many shall run to and fro, and knowledge shall increase.”
+- **Celebration of Sin**
+	-  **Prophecy:** People will redefine morality by calling evil good and good evil.
+    - **Fulfilled/Ongoing:** Abortion, pride, lust, and perversion are now defended and celebrated. Good is often called hateful.
+    - _Isaiah 5:20_: “Woe to those who call evil good and good evil...”
+
+# Past Fulfillments
+- **The Messiah Would Be Crucified**
+	-  **Prophecy:** The Messiah would suffer, be pierced, and die in humiliation for others.
+    - **Fulfilled:** Jesus was crucified, fulfilling these descriptions hundreds of years later.
+    - _Psalm 22:16_: “They pierce my hands and feet.”
+    - _Isaiah 53:5_: “He was pierced for our transgressions.”
+    - _Zechariah 12:10_: “They will look on me, the one they have pierced.”
+- **Born in Bethlehem**
+	- **Prophecy:** The Messiah would come from the small town of Bethlehem.
+    - **Fulfilled:** Jesus was born in Bethlehem, despite Mary and Joseph being from Nazareth.
+    - _Micah 5:2_: “But you, Bethlehem... out of you will come one who will be ruler over Israel.”
+- **Born of a Virgin**
+	- **Prophecy:** A virgin would give birth to a son called Immanuel (God with us).
+    - **Fulfilled:** Jesus was miraculously born to Mary, a virgin.
+    - _Isaiah 7:14_: “The virgin will conceive and give birth to a son...”
+- **Betrayed for 30 Pieces of Silver**
+	- **Prophecy:** The Messiah would be betrayed for 30 silver coins, which would be thrown in the temple.
+    - **Fulfilled:** Judas Iscariot betrayed Jesus for 30 silver coins, which were later thrown in the temple and used to buy a potter’s field.
+    - _Zechariah 11:13_: “Throw it to the potter — the handsome price at which they valued me!”
+- **Silent Before Accusers**
+	- **Prophecy:** He would not defend Himself when falsely accused.
+    - **Fulfilled:** Jesus remained silent during His trial.
+    - _Isaiah 53:7_: “He was oppressed... yet he did not open his mouth.”
+- **Pierced Side, No Broken Bones**
+	- **Prophecy:** His bones would not be broken, but He would be pierced.
+    - **Fulfilled:** Roman soldiers pierced Jesus' side, but did not break His bones (common in crucifixion).
+    - _Psalm 34:20_: “He protects all his bones, not one of them will be broken.”
+    - _John 19:34–36_: "Instead, one of the soldiers pierced Jesus’ side with a spear, bringing a sudden flow of blood and water. 35 The man who saw it has given testimony, and his testimony is true. He knows that he tells the truth, and he testifies so that you also may believe. These things happened so that the scripture would be fulfilled: “Not one of his bones will be broken,"
+- **Buried in a Rich Man’s Tomb**
+	- **Prophecy:** Though killed like a criminal, He would be buried with the rich.
+    - **Fulfilled:** Jesus was placed in Joseph of Arimathea’s tomb — a wealthy man’s grave.
+    - _Isaiah 53:9_: “He was assigned a grave with the wicked, and with the rich in his death.”
+- **Gentiles Would Seek the Messiah**
+	- **Prophecy:** The Messiah would be a light to the Gentiles.
+    - **Fulfilled:** Billions of non-Jews (Gentiles) have followed Jesus over the centuries.
+    - _Isaiah 49:6_: “I will also make you a light for the Gentiles...”
+- **John the Baptist Foretold**
+	- **Prophecy:** A voice would prepare the way for the Lord in the wilderness.
+    - **Fulfilled:** John the Baptist preached in the wilderness, preparing people for Jesus.
+    - _Isaiah 40:3_: “A voice of one calling: ‘In the wilderness prepare the way for the Lord.’”
+- **Temple Destroyed**
+	- **Prophecy:** The Messiah would be cut off, and the temple destroyed.
+    - **Fulfilled:** Jesus died around 30 A.D.; the Second Temple was destroyed by the Romans in 70 A.D., exactly as prophesied.
+    - _Daniel 9:26_: “The Anointed One will be cut off... and the people of the ruler will destroy the city and the sanctuary.”
+- **Babylon Would Fall**
+	- **Prophecy:** Babylon would fall and never be rebuilt.
+    - **Fulfilled:** Babylon was conquered by the Medes and Persians, and to this day, lies in ruins (despite modern attempts to rebuild it).
+    - _Isaiah 13:19–20_: “Babylon... will never be inhabited or lived in through all generations.”
+- **Fall of Greece & Rise of Rome**
+	- **Prophecy:** Daniel saw four empires rising: Babylon, Medo-Persia, Greece, then Rome.
+    - **Fulfilled:** These empires rose in the exact order. Daniel even described the Greek Empire dividing into four after Alexander the Great — which happened.
+    - _Daniel 8:21–22_: “The shaggy goat is the king of Greece... and the four horns... are four kingdoms.”
+- **Jews Scattered Among Nations**
+	- **Prophecy:** If they disobeyed, the Jews would be scattered to all nations.
+    - **Fulfilled:** After rejecting God and the Messiah, the Jewish people were exiled from Israel and scattered worldwide for nearly 2,000 years.
+    - _Deuteronomy 28:64_: “Then the Lord will scatter you among all nations...”

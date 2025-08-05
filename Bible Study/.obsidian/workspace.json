@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "8efb457e67219e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "220692eafcde8c8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec86badfbfc1cccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Asked Questions/If the earth is only 6,000 years old, what are dinosaur bones then.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "If the earth is only 6,000 years old, what are dinosaur bones then"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8864d0a65d58bcf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bb7b22b3e242d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b76bfd3b24ca270d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a8112f8523b1cea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4704ae711ae53202",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbbc37933faa3804",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ab48f6cef210222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb74426759b22039",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Asked Questions/If the earth is only 6,000 years old, what are dinosaur bones then.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for If the earth is only 6,000 years old, what are dinosaur bones then"
+            }
+          },
+          {
+            "id": "de642e349168d042",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Prophesies/Prophesies.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prophesies"
+            }
+          },
+          {
+            "id": "e9ce39f27731aded",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2ed39475a3fd8ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Prophesies/Prophesies.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prophesies"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ec86badfbfc1cccb",
+  "lastOpenFiles": [
+    "Asked Questions/How can the Bible claim the earth is around 6,000 years old when trees, rocks, and fossils are measured to be millions of years old.md",
+    "Asked Questions/How could Noah's Ark fit all the animals if it was only 300 cubits long.md",
+    "Prophesies/Prophesies.md",
+    "Asked Questions/Why god doesn't just reveal himself.md",
+    "Asked Questions/If the earth is only 6,000 years old, what are dinosaur bones then.md",
+    "Asked Questions/What makes the Bible different from other religious books or religions.md",
+    "Eyewitness Testimonies/Eyewitness Testimonies.md",
+    "Untitled.md",
+    "The 7 Deadly Sins/Pride.md",
+    "The 7 Deadly Sins/Lust.md",
+    "The 7 Deadly Sins/Wrath.md",
+    "The 7 Deadly Sins/Sloth.md",
+    "The 7 Deadly Sins/Greed.md",
+    "The 7 Deadly Sins/Gluttony.md",
+    "The 7 Deadly Sins/Envy.md",
+    "Asked Questions",
+    "The Disciples & What They Wrote/James.md",
+    "The Disciples & What They Wrote/John.md",
+    "The Disciples & What They Wrote/Luke.md",
+    "The Disciples & What They Wrote/Paul.md",
+    "The Disciples & What They Wrote/Peter.md",
+    "Scholars that believe Jesus lived/Publius Cornelius Tacitus.md",
+    "Scholars that believe Jesus lived/Flavius Josephus.md",
+    "Scholars that believe Jesus lived/Bart Denton Ehrman.md",
+    "The 7 Deadly Sins",
+    "Eyewitness Testimonies",
+    "Prophesies",
+    "The Disciples & What They Wrote",
+    "Welcome.md",
+    "Scholars that believe Jesus lived"
+  ]
+}
