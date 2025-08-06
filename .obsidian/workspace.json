@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a6ed0950e2a9db94",
+        "id": "70739a82b84b7310",
         "type": "tabs",
         "children": [
           {
-            "id": "3f310f45661a37e2",
+            "id": "6437707992490f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/Asked Questions/If God is so godly and perfect, why is He jealous Isn’t jealousy a sin.md",
+                "file": "Bible Study/Asked Questions/Was Jesus a myth or just a good teacher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "If God is so godly and perfect, why is He jealous Isn’t jealousy a sin"
+              "title": "Was Jesus a myth or just a good teacher"
             }
           }
         ]
@@ -166,10 +166,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f310f45661a37e2",
+  "active": "6437707992490f48",
   "lastOpenFiles": [
+    "Bible Study/Asked Questions/Isn’t Christianity just copied mythology (like Horus or Mithras).md",
+    "Bible Study/Asked Questions/If God wanted us to believe in Him, why not write “I exist” in the sky.md",
+    "Bible Study/Asked Questions/Is God sexist because He’s always called ‘He’.md",
+    "Bible Study/Asked Questions/Isn’t religion the cause of most wars.md",
+    "Bible Study/Asked Questions/How do I know my faith is real and not just emotion.md",
+    "Bible Study/Asked Questions/Why doesn’t God answer my prayers.md",
+    "Bible Study/Asked Questions/Why are there so many denominations if the Bible is true.md",
+    "Bible Study/Asked Questions/Why are Christians hypocrites.md",
+    "Bible Study/Asked Questions/Can people who've never heard the Gospel go to Heaven.md",
+    "Bible Study/Asked Questions/Why did Jesus have to die couldn't God just forgive.md",
+    "Bible Study/Asked Questions/If Jesus died for our sins, why do we still suffer.md",
+    "Bible Study/Asked Questions/Why is Jesus the only way to God.md",
+    "Bible Study/Asked Questions/How do we know Jesus really rose from the dead.md",
+    "Bible Study/Asked Questions/Why does God allow Satan to exist.md",
+    "Bible Study/Asked Questions/Why would God test people (like Abraham).md",
+    "Bible Study/Asked Questions/Why are some sins punished so harshly in the Old Testament.md",
+    "Bible Study/Asked Questions/Why is homosexuality called a sin in the Bible.md",
+    "Bible Study/Asked Questions/Why did God allow slavery in the Bible.md",
+    "Bible Study/Asked Questions/How do you explain fossils and ancient human remains.md",
+    "Bible Study/Asked Questions/Where did God come from.md",
+    "Bible Study/Asked Questions/Doesn’t science disprove the Bible.md",
+    "Bible Study/Asked Questions/Can we take the Genesis creation story literally.md",
+    "Bible Study/Asked Questions/Why doesn’t the Bible mention dinosaurs explicitly.md",
     "Bible Study/Asked Questions/How can the Bible claim the earth is around 6,000 years old when trees, rocks, and fossils are measured to be millions of years old.md",
-    "Bible Study/Asked Questions/If God is so godly and perfect, why is He jealous Isn’t jealousy a sin.md",
-    "Bible Study/Test.md"
+    "Bible Study/Asked Questions/What about evolution Doesn’t it contradict Genesis.md",
+    "Bible Study/Asked Questions/Isn’t the universe billions of years old.md"
   ]
 }
