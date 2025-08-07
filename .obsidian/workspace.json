@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/Asked Questions/Was Jesus a myth or just a good teacher.md",
+                "file": "Bible Study/Prophesies/Prophesies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Was Jesus a myth or just a good teacher"
+              "title": "Prophesies"
             }
           }
         ]
@@ -166,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36a55a3c438c032b",
+  "active": "6437707992490f48",
   "lastOpenFiles": [
+    "Bible Study/Asked Questions/Was Jesus a myth or just a good teacher.md",
     "Bible Study/What to do as a Christian",
     "Bible Study/Asked Questions/Isn’t Christianity just copied mythology (like Horus or Mithras).md",
     "Bible Study/Asked Questions/If God wanted us to believe in Him, why not write “I exist” in the sky.md",
