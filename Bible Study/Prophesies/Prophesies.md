@@ -35,6 +35,17 @@
 	-  **Prophecy:** People will redefine morality by calling evil good and good evil.
     - **Fulfilled/Ongoing:** Abortion, pride, lust, and perversion are now defended and celebrated. Good is often called hateful.
     - _Isaiah 5:20_: “Woe to those who call evil good and good evil...”
+- **The Red Heifer Ritual in Progress**
+	- **Prophecy/Instruction:** A flawless red heifer, without blemish and never yoked, must be sacrificed and its ashes used for purification, particularly for cleansing from ritual impurity (Numbers 19:2).
+	- **Fulfillment Status:** **Happening now** — Multiple sources confirm that this ancient ritual is unfolding in Israel.
+	- **Evidence & Context:**
+	    - In **September 2022**, the Temple Institute brought five qualified red heifers from Texas to Israel for future use in the biblical purification ceremony.[Wikipedia+1](https://en.wikipedia.org/wiki/Red_heifer?utm_source=chatgpt.com)
+        
+	    - According to **Charisma Magazine (July 2025)**, a short video surfaced showing the burning of a red heifer in Israel—though the animal wasn’t one of the initially qualified candidates.[Charisma Magazine Online](https://mycharisma.com/most-recent/red-heifer-practice-burn-sparks-prophetic-interest-in-israel/?utm_source=chatgpt.com)
+        
+	    - A credible report indicates a **“practice offering”** of a red heifer was conducted on **July 9, 2025** in Israel—potentially a significant step toward the full ritual.[Postscripts](https://postscripts.org/article-a123-red-heifer-1?utm_source=chatgpt.com)
+        
+	    - Preparations have been underway for a while: as early as 2023, practice runs of the ceremony were held, and by March 2025, there were rumors of intentions to perform the sacrifice around Passover—though no official ceremony occurred then.
 
 # Past Fulfillments
 - **The Messiah Would Be Crucified**
