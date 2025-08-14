@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Prophesies"
             }
+          },
+          {
+            "id": "e802ad23777195fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible Study/Evolution/Why do many Christians reject evolution, and what are the major flaws in the theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why do many Christians reject evolution, and what are the major flaws in the theory"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6437707992490f48",
+  "active": "e802ad23777195fe",
   "lastOpenFiles": [
+    "Bible Study/Prophesies/Prophesies.md",
+    "Bible Study/Evolution/Why do many Christians reject evolution, and what are the major flaws in the theory.md",
+    "Bible Study/Evolution",
     "Bible Study/Asked Questions/Was Jesus a myth or just a good teacher.md",
     "Bible Study/What to do as a Christian",
     "Bible Study/Asked Questions/Isn’t Christianity just copied mythology (like Horus or Mithras).md",
@@ -192,8 +210,6 @@
     "Bible Study/Asked Questions/Where did God come from.md",
     "Bible Study/Asked Questions/Doesn’t science disprove the Bible.md",
     "Bible Study/Asked Questions/Can we take the Genesis creation story literally.md",
-    "Bible Study/Asked Questions/Why doesn’t the Bible mention dinosaurs explicitly.md",
-    "Bible Study/Asked Questions/How can the Bible claim the earth is around 6,000 years old when trees, rocks, and fossils are measured to be millions of years old.md",
-    "Bible Study/Asked Questions/What about evolution Doesn’t it contradict Genesis.md"
+    "Bible Study/Asked Questions/Why doesn’t the Bible mention dinosaurs explicitly.md"
   ]
 }
