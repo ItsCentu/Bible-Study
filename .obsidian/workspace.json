@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "74a45a7d3a7e3cb9",
+        "id": "6cefac49fd6cbc2c",
         "type": "tabs",
         "children": [
           {
-            "id": "802a5a0c39c2525f",
+            "id": "9435bed52f35af3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible Study/Asked Questions/Is Sunday really the start of the week Why did the calendar shift to Monday And why do some say Sunday is the Sabbath when Saturday is.md",
+                "file": "Experiences/Experiences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Is Sunday really the start of the week Why did the calendar shift to Monday And why do some say Sunday is the Sabbath when Saturday is"
+              "title": "Experiences"
             }
           }
         ]
@@ -167,8 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "802a5a0c39c2525f",
+  "active": "9435bed52f35af3f",
   "lastOpenFiles": [
+    "Experiences/Experiences.md",
+    "Experiences",
+    "Bible Study/Untitled.canvas",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Bible Study/Asked Questions/Is God sexist because He’s always called ‘He’.md",
     "Bible Study/Asked Questions/Is Sunday really the start of the week Why did the calendar shift to Monday And why do some say Sunday is the Sabbath when Saturday is.md",
     "Bible Study/Asked Questions/Isn't the love of money (idolatry) and greed the same thing.md",
     "Bible Study/Asked Questions/Is gambling a sin.md",
@@ -181,7 +188,6 @@
     "Bible Study/What to do as a Christian",
     "Bible Study/Asked Questions/Isn’t Christianity just copied mythology (like Horus or Mithras).md",
     "Bible Study/Asked Questions/If God wanted us to believe in Him, why not write “I exist” in the sky.md",
-    "Bible Study/Asked Questions/Is God sexist because He’s always called ‘He’.md",
     "Bible Study/Asked Questions/Isn’t religion the cause of most wars.md",
     "Bible Study/Asked Questions/How do I know my faith is real and not just emotion.md",
     "Bible Study/Asked Questions/Why doesn’t God answer my prayers.md",
@@ -195,7 +201,6 @@
     "Bible Study/Asked Questions/Why does God allow Satan to exist.md",
     "Bible Study/Asked Questions/Why would God test people (like Abraham).md",
     "Bible Study/Asked Questions/Why are some sins punished so harshly in the Old Testament.md",
-    "Bible Study/Asked Questions/Why is homosexuality called a sin in the Bible.md",
-    "Bible Study/Asked Questions/Why did God allow slavery in the Bible.md"
+    "Bible Study/Asked Questions/Why is homosexuality called a sin in the Bible.md"
   ]
 }
