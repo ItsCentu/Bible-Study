@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cefac49fd6cbc2c",
+        "id": "d3e8057c91ec797c",
         "type": "tabs",
         "children": [
           {
-            "id": "9435bed52f35af3f",
+            "id": "789935cbd4f49f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9435bed52f35af3f",
+  "active": "789935cbd4f49f0e",
   "lastOpenFiles": [
-    "Bible Study/Untitled.canvas",
+    "Bible Study/The Disciples & What They Wrote/James.md",
     "Experiences/Experiences.md",
+    "Bible Study/Untitled.canvas",
     "Experiences",
     "Untitled 2.base",
     "Untitled 1.base",
