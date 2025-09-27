@@ -16,7 +16,7 @@ Many call me arrogant; maybe they are correct; some call me wise, but I beg to d
 
 The school system, what should be learning, is both working and not. Sure, many become educated; this is true, however, just because you learn does not mean you understand how to use that knowledge or control it. Sin runs rampant without restraint. People talking lustfully, Wrath without kindness, arrogance without humility, and greed without content. This is what Paul describes in Romans 1: knowledge of God and truth exists, yet many suppress it and fall into corruption. (8)
 
-##### Chapter 2
+##### Chapter 2 Lukewarm faith vs. true works.
 
 How can one be so blind? How many times must you be pelted by water before you realize that it’s not been raining but storming the entire time? How can the blind see more than those with 20/20 vision? Is this willful ignorance or something else in disguise? We view passages in the Bible as a simple coincidence; however, we look away from the fact that it was still written down. How many times must this happen? The proof is in the pages, yet when read, they are not read, but overlooked. They are not studied but forgotten. How do you expect to find truth when your book remains closed? How do you expect to find wisdom when you don’t learn? How do you expect to see when your eyes remain shut? (1)
 
@@ -25,3 +25,5 @@ For those who say they believe yet do not do works, how can you be so lukewarm? 
 Yet for those who truly follow, for those who act in faith, many true believers will find that as they draw closer to God, the harder their lives become. Do not be afraid, our God, our Father, is with us already paving the way. Use your ultimate weapon, your faith, do not waver in the eyes of evil; instead, believe and pray. This life is but a timer, the timer to eternity. Hold your cross high, do not fall; believe and you will never fall from God's holy place. Instead, believe, and someday you will fly. (3)
 
 Fellow follower and believer of God, or lord, be careful with what you say. Words were given by God; however, your words are dependent on how you use the gift of God that is Free Will. The tongue is a serpent, which can either break or build up others. (James 3:5–10) Instead, tame that snake and use it to spread the great word of God. Assist others, and bring them close. Encourage, and pray. Instead of being a snake, be the morning dove. The shining star in the blackness of space. (4)
+
+Friends, I understand that is is hard to fight temptation, but we must if we want to stay on God's holy ground. Cut off what ever that is making you sin, and go and sin no more. To truly repent, is to turn away from what is causing you to sin, so you do not fall into any longer. Do not let it control your life. Is it not by God's graciousness that he allows free will? So why do you let temptation guide you away? Take control, be disciplined, and sin no more. (5)
