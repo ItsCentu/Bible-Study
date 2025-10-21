@@ -53,3 +53,4 @@ Another question. How do you interpret the world? The answer will be different d
 
 It is important that you think like this. Continue to compare and use logic. I was once told by my father to never believe anything just by hearing it. Even in God. My father is a man of God, so to many, the first thought that enters their head would be anger. Why would he say this? This shows you lack the maturity to understand. He is correct in his statement. This is what it means. Do not just be spoon-fed knowledge, and be happy. Research it yourself. It took me a long time to realize what he meant. That is because I was close-minded. Now I am open, and I will make sure that I never allow that door to close again. (5)
 ##### Chapter 5 Views
+My views of the world are my own. I do my best to run my life off of logic. I do everything that I can to learn before I believe. That is what has strengthened my strength
