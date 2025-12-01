@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bdab9ca349175fa",
+            "id": "f227cbe620fe68bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Experiences"
             }
-          },
-          {
-            "id": "f0618bee8646e352",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0618bee8646e352",
+  "active": "f227cbe620fe68bf",
   "lastOpenFiles": [
     "Untitled 1.base",
     "Experiences/Experiences.md",
